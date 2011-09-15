@@ -1,5 +1,3 @@
-require 'yaml'
-
 class ActionAuthorizer
 
   def initialize(action_groups)
